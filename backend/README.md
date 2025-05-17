@@ -43,7 +43,7 @@ npm run build
 
 5. Start the server:
 ```bash
-npm start
+npm run start
 ```
 
 ## API Documentation
